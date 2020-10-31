@@ -64,6 +64,7 @@ int main(void){
         }
     }
 
+
     printf("また遊んでね!\n");
     return 0;
 }
